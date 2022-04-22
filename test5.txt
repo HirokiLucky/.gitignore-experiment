@@ -2,3 +2,5 @@ test5
 
 ID: hoge
 password: hogehoge
+
+＃コミット後.gitignoreしたあとにこの1行を書いた
